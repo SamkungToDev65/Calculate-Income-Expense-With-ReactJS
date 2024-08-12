@@ -1,0 +1,12 @@
+.footer {
+    position: fixed; /* เพื่อให้ footer อยู่ที่ด้านล่างสุดของหน้า */
+    left: 0;
+    bottom: 0;
+    background-color: #3d0869d8; /* สีพื้นหลังของ footer */
+    color: #ffffff; /* สีข้อความ */
+    text-align: center; /* จัดข้อความให้อยู่ตรงกลาง */
+    width: 100%;
+    padding: 20px 0;
+    justify-content: center;
+    
+  }

@@ -1,0 +1,23 @@
+/* styles.css */
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 1rem;
+    margin: 1rem 0;
+    border-bottom: 1px solid #ccc;
+    
+  }
+  
+  .header a {
+    display: flex;
+    align-items: center;
+  }
+
+  .logo-link:hover{
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .logo-link:hover{
+    transform: scale(1.05);
+  }
